@@ -1,4 +1,4 @@
-<em> # Catálogo de Libros </em>
+<em> # Foro Hub </em>
 
 <h1 align="center"> Desafío, que se llama Foro Hub: Con una API REST usando Spring</h1>
 
